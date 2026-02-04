@@ -1,0 +1,38 @@
+ETFS = '''
+VOO
+QQQ
+VGLT
+SCHR
+GLDM
+GLD
+SCHX
+BCI
+'''
+
+TEC_EQ = '''
+AAPL
+MSFT
+GOOG
+AMZN
+META
+ORCL
+'''
+
+# AVGO
+# NVDA
+# AMD
+
+FS_EQ = '''
+BRK-B
+V
+JPM
+INTU
+AXP
+C
+'''
+
+PHM_EQ ='''
+LLY
+JNJ
+ABT
+'''
