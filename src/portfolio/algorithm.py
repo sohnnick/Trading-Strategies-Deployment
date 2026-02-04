@@ -16,7 +16,7 @@ from alpaca.trading.requests import GetAssetsRequest
 from alpaca.trading.enums import AssetClass
 
 # import relevant libraries
-from .backtester import *
+from .helpers import *
 
 # FUNCTION: execute order
 def execute_order(client, ticker, notional_amt):
